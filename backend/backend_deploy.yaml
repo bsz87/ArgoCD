@@ -18,7 +18,7 @@ spec:
         app: backend
     spec:
       containers:
-      - image: bsz87/backend:latest
+      - image: bsz87/backend:RC-7.cd5eb7c
         name: backend
         ports:
         - containerPort: 5001
