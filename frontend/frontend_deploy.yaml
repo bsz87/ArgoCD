@@ -18,7 +18,7 @@ spec:
         app: frontend
     spec:
       containers:
-      - image: bsz87/frontend:latest
+      - image: bsz87/frontend:RC-4.83f9b53
         name: frontend
         ports:
         - containerPort: 5000
